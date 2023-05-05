@@ -1,0 +1,15 @@
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\bin\Debug\net6.0\c-sharp-tba.exe
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\bin\Debug\net6.0\c-sharp-tba.deps.json
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\bin\Debug\net6.0\c-sharp-tba.runtimeconfig.json
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\bin\Debug\net6.0\c-sharp-tba.dll
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\bin\Debug\net6.0\c-sharp-tba.pdb
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\obj\Debug\net6.0\c-sharp-tba.csproj.AssemblyReference.cache
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\obj\Debug\net6.0\c-sharp-tba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\obj\Debug\net6.0\c-sharp-tba.AssemblyInfoInputs.cache
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\obj\Debug\net6.0\c-sharp-tba.AssemblyInfo.cs
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\obj\Debug\net6.0\c-sharp-tba.csproj.CoreCompileInputs.cache
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\obj\Debug\net6.0\c-sharp-tba.dll
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\obj\Debug\net6.0\refint\c-sharp-tba.dll
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\obj\Debug\net6.0\c-sharp-tba.pdb
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\obj\Debug\net6.0\c-sharp-tba.genruntimeconfig.cache
+C:\Users\wreid8\source\repos\c-sharp-tba\c-sharp-tba\obj\Debug\net6.0\ref\c-sharp-tba.dll

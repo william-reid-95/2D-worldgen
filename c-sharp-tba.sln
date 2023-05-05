@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-tba", "c-sharp-tba\c-sharp-tba.csproj", "{9032ACE4-FE01-4DEB-8F52-7AC78418868B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9032ACE4-FE01-4DEB-8F52-7AC78418868B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9032ACE4-FE01-4DEB-8F52-7AC78418868B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9032ACE4-FE01-4DEB-8F52-7AC78418868B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9032ACE4-FE01-4DEB-8F52-7AC78418868B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA317671-A063-4369-AD1B-0DB546C0C7E3}
+	EndGlobalSection
+EndGlobal
